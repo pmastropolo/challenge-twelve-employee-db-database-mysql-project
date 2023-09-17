@@ -92,7 +92,7 @@ To ensure smooth execution:
 
 :arrow_down:
 
-:arrow_forward: [Github Link : Click Me To Go To Link](https://github.com/pmastropolo/challenge-twelve-employee-tracker-mysql-project)
+:arrow_forward: [Github Link : Click Me To Go To Link](https://github.com/pmastropolo/challenge-twelve-employee-db-database-mysql-project)
 
 :arrow_forward: [Youtube Video : Click Me To Go To Link](https://www.youtube.com/watch?v=Lo4xbWoiPC0)
 
@@ -100,7 +100,7 @@ To ensure smooth execution:
 
 :open_file_folder:
 
-:arrow_forward: Github link: https://github.com/pmastropolo/challenge-twelve-employee-tracker-mysql-project
+:arrow_forward: Github link: https://github.com/pmastropolo/challenge-twelve-employee-db-database-mysql-project
 
 :arrow_forward: Youtube Video: https://www.youtube.com/watch?v=Lo4xbWoiPC0
 
